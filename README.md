@@ -40,7 +40,7 @@ Above mentioned project work flow considered and Glue jobs were created accordin
 
 ![image](https://github.com/user-attachments/assets/ed0960b3-db3e-4460-9a06-84bfacb40ce3)
 
-5. After each stage of your project, table row_count and records were checked and they matched with the expected volume.  screen shots are included in the screen_shots folder to show the results of Athena queries.
+5. After each stage of  project, table row_count and records were checked and they matched with the expected volume.  screen shots are included in the screen_shots folder to show the results of Athena queries.
   
 Landing
    Customer: 956
