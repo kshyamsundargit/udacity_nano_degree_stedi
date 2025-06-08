@@ -5,7 +5,7 @@ As a data engineer on the STEDI Step Trainer team,  need to extract the data pro
 
 
 ### Project Data:
-STEDI has three JSON data sources(opens in a new tab) to use from the Step Trainer. Check out the JSON data in the following folders in the Github repo:
+STEDI has three JSON data sources to use from the Step Trainer. 
 
 - customer
 - step_trainer
